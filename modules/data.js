@@ -79,5 +79,12 @@ var Data = [
 		cate: 'tool',
 		name: 'code-push',
 		link: 'http://microsoft.github.io/code-push/'
+	},
+
+	// 插件
+	{
+		cate: 'plugin',
+		name: 'Moment.js',
+		link: 'http://momentjs.cn/'
 	}
 ];
