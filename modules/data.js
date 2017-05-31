@@ -139,7 +139,7 @@ var Data = [
 		cate: 'tool',
 		scat: 'build',
 		name: 'babel',
-		link: 'https://webpack.github.io/'
+		link: 'https://babeljs.io/'
 	},
 	{
 		cate: 'tool',
@@ -218,6 +218,12 @@ var Data = [
 		scat: 'w3c',
 		name: 'w3schools',
 		link: 'https://www.w3schools.com/'
+	},
+	{
+		cate: 'tutorial',
+		scat: 'faq',
+		name: 'stackoverflow',
+		link: 'https://stackoverflow.com/'
 	},
 	{
 		cate: 'tutorial',
