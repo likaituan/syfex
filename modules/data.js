@@ -37,19 +37,31 @@ var Data = [
 	},
 	{
 		cate: 'language',
-		scat: 'app',
+		scat: 'android',
+		name: 'kotlin',
+		link: 'https://kotlinlang.org/'
+	},
+	{
+		cate: 'language',
+		scat: 'android',
+		name: 'java',
+		link: 'https://www.java.com'
+	},
+	{
+		cate: 'language',
+		scat: 'ios',
 		name: 'swift',
 		link: 'https://developer.apple.com/swift/'
 	},
 	{
 		cate: 'language',
-		scat: 'app',
+		scat: 'ios',
 		name: 'objective-c',
 		link: 'https://developer.apple.com/reference/objectivec'
 	},
 	{
 		cate: 'language',
-		scat: 'app',
+		scat: 'ios',
 		name: 'groovy',
 		link: 'http://groovy-lang.org/'
 	},
@@ -151,7 +163,7 @@ var Data = [
 		cate: 'tool',
 		scat: 'code',
 		name: 'code-push',
-		link: 'https://babeljs.io/'
+		link: 'https://microsoft.github.io/code-push/'
 	},
 	{
 		cate: 'tool',

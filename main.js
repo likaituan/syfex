@@ -19,9 +19,9 @@ window.onload = function () {
 			}
 			return `${itemHTML}
 			<tr>
-				<td><a href="${item.link}" target="_blank">${item.name}</a></td>
+				<td><a href="https://www.google.com.sg/search?q=${item.name}" target="_blank">${item.name}</a></td>
 				<td>${item.scat}</td>
-				<td>${item.link}</td>
+				<td><a href="${item.link}" target="_blank">${item.link}</a></td>
 			</tr>
 		`}).join('')}
 	</table>
